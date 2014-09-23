@@ -1,0 +1,49 @@
+Task 1:
+
+Increment functions correctly (10 points)
+
+Task 2:
+
+Counter functions correctly (10 points)
+
+Task 3:
+
+Returned functions increment correctly (5 points)
+Each returned function is different object (5 points)
+
+Task 4:
+
+Returned functions count properly (5 points)
+Each returned function is a different object that operates independently (5 points)
+
+Task 5:
+
+Returned functions count properly (5 points)
+Each returned function is a different object that operates independently (5 points)
+
+Task 6:
+
+Returned array is of correct length (4 points)
+Values in returned array are correct (4 points)
+Length 0 array returns empty array (2 points)
+
+Task 7:
+
+Negative number throws error with name 'BadSize' and message 'Negative size' (4 points)
+Non-number throws error with name 'BadSize' and message 'Size is not a number' (4 points)
+Task 6 tests (all of which are valid input for task 7) all pass (2 points)
+
+Task 8:
+
+Returned array is of correct length (1 point)
+Returned array contains functions which increment correctly (3 points)
+Returned array contains functions which are different objects (2 points)
+Negative number throws error with name 'BadSize' and message 'Negative size' (2 points)
+Non-number throws error with name 'BadSize' and message 'Size is not a number' (2 points)
+
+Task 9:
+
+Returned array is of correct length (1 point)
+Returned array contains functions which count correctly (5 points)
+Negative number throws error with name 'BadSize' and message 'Negative size' (2 points)
+Non-number throws error with name 'BadSize' and message 'Size is not a number' (2 points)
